@@ -19,9 +19,9 @@ The dataset used is present in the sheet named "Store data".  The main columns i
 - Quantity Ordered: The number of items ordered.
 - Amount: The total sales amount.
 - Shipping Details:
-   City: The city where the order was shipped.
-   State: The state where the order was shipped.
-   Country: The country where the order was shipped.
+  City: The city where the order was shipped.
+  State: The state where the order was shipped.
+  Country: The country where the order was shipped.
 
 ![Screenshot (176)](https://github.com/Ritvik2103/Store-data-analysis/assets/108319429/14bc8fee-a509-43dd-b47a-1bc060bf18e7)
 
