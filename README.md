@@ -27,7 +27,8 @@ The dataset used is present in the sheet named "Store data".  The main columns i
 
 
 ## Data Preprocessing
-The main data preprocessing steps involved fixing different data rows with improper data format. Introduction of 2 new calculated columns :Age category and Month for better analysis
+The main data preprocessing steps involved fixing different data rows with improper data format. Introduction of 2 new calculated columns: 
+Age category and Month for better analysis.
 
 ## Data Analysis
 Data Analysis involved the use of Pivot tables and these pivot tables were used to develop pivot charts. These pivot charts are the main components of the dashboard.
